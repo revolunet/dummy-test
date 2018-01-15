@@ -1,3 +1,7 @@
 {
-"name":"dummy-test"
+  "name": "dummy-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/revolunet/dummy-test.git"
+  }
 }
